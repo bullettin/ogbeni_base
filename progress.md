@@ -175,3 +175,4 @@ Commit #173 - More progress logged
 Commit #174 - Consistency pays
 Commit #175 - 175 achieved
 Commit #176 - Still going strong
+Commit #177 - Guild 100+ incoming
