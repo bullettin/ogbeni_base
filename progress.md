@@ -112,3 +112,4 @@ Commit #110 - 110+ done and dusted
 Commit #111 - Continuing the Base grind
 Commit #112 - More public activity
 Commit #113 - Builder consistency
+Commit #114 - Base Guild progress
