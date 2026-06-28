@@ -121,3 +121,4 @@ Commit #119 - 119 logged
 Commit #120 - 120 commits done
 Commit #121 - Still building
 Commit #122 - Guild role coming
+Commit #123 - Daily Base work
