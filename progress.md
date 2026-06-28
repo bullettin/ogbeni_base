@@ -113,3 +113,4 @@ Commit #111 - Continuing the Base grind
 Commit #112 - More public activity
 Commit #113 - Builder consistency
 Commit #114 - Base Guild progress
+Commit #115 - Fire by force daily
