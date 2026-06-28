@@ -114,3 +114,4 @@ Commit #112 - More public activity
 Commit #113 - Builder consistency
 Commit #114 - Base Guild progress
 Commit #115 - Fire by force daily
+Commit #116 - Ogbeni Base strong
