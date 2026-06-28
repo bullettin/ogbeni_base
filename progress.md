@@ -165,3 +165,4 @@ Commit #163 - Guild role almost here
 Commit #164 - Keep adding
 Commit #165 - 165 strong
 Commit #166 - Fire by force
+Commit #167 - Public repo grind
