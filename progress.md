@@ -202,3 +202,4 @@ Commit #199 - 199 commits
 Commit #200 - 200+ Base Guild commits unlocked
 Commit #151 - Base Guild final grind
 Commit #131 - Final stretch
+Commit #125 - Halfway plus strong
