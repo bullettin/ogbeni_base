@@ -161,3 +161,4 @@ Commit #159 - 159 down
 Commit #160 - 160 commits achieved
 Commit #161 - Final 40 loading
 Commit #162 - Strong Base activity
+Commit #163 - Guild role almost here
